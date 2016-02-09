@@ -1,0 +1,44 @@
+.nav {
+	
+	text-align:center;
+	font-weight:bold;
+}
+
+.Content h2 {
+	text-align:center;
+	font-style:bolder;
+	text-decoration:underline;
+}
+.Content h3 {
+	text-align:center;
+}
+.Content p {
+	text-align:center;
+	font-style:italic;
+}
+.Content h4 {
+	text-align:center;
+	
+}
+.container {
+	background-color:#C0C0C0;
+}
+.End h2 {
+	text-align:center;
+
+}
+.End h3 {
+	text-align:center;
+}
+.End p {
+	text-align:center;
+}
+.End li {
+	text-align:center;
+}
+.Content li {
+	text-align:center;
+}
+.container {
+	border: 4px solid #000000;
+}
